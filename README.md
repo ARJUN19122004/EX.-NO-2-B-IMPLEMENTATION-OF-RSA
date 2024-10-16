@@ -65,7 +65,8 @@ print("Original Message Sent = ", m)
 ```
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4e810563-2fe4-4f42-8d94-be8989968d90)
+
 
 
 ## RESULT:
